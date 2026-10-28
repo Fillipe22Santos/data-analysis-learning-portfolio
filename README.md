@@ -1,4 +1,3 @@
-# data-analysis-learning-portfolio
 # Portfólio de Análise de Dados
 
 Repositório destinado à publicação de projetos desenvolvidos durante cursos e treinamentos em Análise de Dados.
